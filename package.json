@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pm2": "^5.3.0",
+    "sanitize-html": "^2.10.0"
+  }
+}
